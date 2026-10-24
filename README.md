@@ -1,9 +1,5 @@
 # UX220PracticeTest1
-html practice test
-
-TLDR;
-
-Use this as a template to answer the questions in the files
+HTML practice test
 
 [Q1](q1.html) simple text
 
